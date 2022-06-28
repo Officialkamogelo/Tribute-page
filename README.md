@@ -11,7 +11,7 @@ HTML CSS
 
 ## Live Demo
 
-[Live Demo Link] 
+[Live Demo Link] https://fastidious-mermaid-cb8403.netlify.app/ 
 
 ## Authors
 
