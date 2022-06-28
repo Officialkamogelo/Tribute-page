@@ -1,5 +1,5 @@
 # Tribute-page
-Creating a personal portfolio using 
+Creating a Tribute page using 
 HTML CSS
 
 
