@@ -1,6 +1,7 @@
 # Tribute-page
-html Css project
-![image]()
+Creating a personal portfolio using 
+HTML CSS
+
 
 ## Technologies used
 
@@ -10,7 +11,7 @@ html Css project
 
 ## Live Demo
 
-[Live Demo Link]
+[Live Demo Link] 
 
 ## Authors
 
@@ -19,9 +20,8 @@ html Css project
 -   Github: [@Officialkamogelo](https://github.com/Officialkamogelo)
 -   Instagram [@Kamogelo.dev](htpps://instagram.com/Kamogelo.dev)
 -   Twitter: [@Artickamogelo](https://twitter.com/KamogeloMahlangu)
--   Linkedin: [linkedin]https://www.linkedin.com/in/kamogelo-ben-mokwana)
--   <Kamogelomokwana@outlook.com>
--   <https://resume.netlify.com/>
+-   Linkedin: [linkedin](https://www.linkedin.com/in/kamogelo-ben-mokwana)
+-   Email: <Kamogelomokwana@outlook.com>
 
 ## 🤝 Contributing
 
